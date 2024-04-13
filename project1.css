@@ -1,0 +1,17 @@
+.a{
+    background-color:white;
+    padding: 20px;
+}
+.b{
+    text-align: center;
+    color: chartreuse;
+}
+.c{
+    text-align: center;
+    color: blueviolet;
+    font-style: italic ;
+    font-weight: bold;
+}
+.d{
+    text-align: center;
+}
